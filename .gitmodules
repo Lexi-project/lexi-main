@@ -1,0 +1,12 @@
+[submodule "lexi-front-end-app"]
+	path = lexi-front-end-app
+	url = git@github.com:co-yo-ne-da/lexi-front-end-app.git
+[submodule "lexi-content-service"]
+	path = lexi-content-service
+	url = git@github.com:co-yo-ne-da/lexi-content-service.git
+[submodule "lexi-user-service"]
+	path = lexi-user-service
+	url = git@github.com:co-yo-ne-da/lexi-user-service.git
+[submodule "lexi-graphql-server"]
+	path = lexi-graphql-server
+	url = git@github.com:co-yo-ne-da/lexi-graphql-server.git

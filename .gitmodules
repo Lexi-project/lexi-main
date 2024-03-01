@@ -10,3 +10,9 @@
 [submodule "lexi-graphql-server"]
 	path = lexi-graphql-server
 	url = git@github.com:co-yo-ne-da/lexi-graphql-server.git
+[submodule "lexi-inbound-gateway-service"]
+	path = lexi-inbound-gateway-service
+	url = https://github.com/Lexi-project/lexi-inbound-gateway-service.git
+[submodule "lexi-graphql"]
+	path = lexi-graphql
+	url = https://github.com/Lexi-project/lexi-graphql.git
